@@ -221,6 +221,8 @@ Rhombohedral system
 
    ``interval``, integer,  ,  Number of structures to calculate between learning data
    ``score``, "``TS``, ``EI``, ``PI``",  ,  Acquisition function
+   ``num_rand_basis``, integer, 0, "If 0: Gaussian process, else: number of basis function"  
+   ``cdev``, float, 0.001, Cutoff of deviation for standardization
    ``dscrpt``, ``FP`` ,  , Descriptor for structure
    ``fp_rmin``, float, 0.5, Minimum cutoff of *r* in *fingerprint*
    ``fp_rmax``, float, 5.0, Maximum cutoff of *r* in *fingerprint*
