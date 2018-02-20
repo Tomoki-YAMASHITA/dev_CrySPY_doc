@@ -19,6 +19,7 @@ The following searching algorithms are available in CrySPY:
 
 - Random Search (RS)
 - Bayesian Optimization (BO)
+- Look Ahead based on Quadratic Approximation (LAQA)
 - Evolutionary Algorithm (EA) (only develop ver.)
 
 Random Search (RS)
@@ -31,5 +32,15 @@ Bayesian Optimization (BO)
   :width: 20cm
 
 
+
+Look Ahead based on Quadratic Approximation (LAQA)
+-----------------------------------------------------
+
+.. image:: ./figs/LAQA.gif
+  :width: 15cm
+
+
 Evolutionary Algorithm (EA)
 ----------------------------
+
+
