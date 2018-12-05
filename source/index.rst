@@ -25,7 +25,7 @@ Reference
 Bayesian optimization
 ----------------------
 
-| T. Yamashita, N. Sato, H. Kino, T. Miyake, K. Tsuda, and T. Oguchi, Phys. Rev. Mater. 2, 013803 (2018).
+| T. Yamashita, N. Sato, H. Kino, T. Miyake, K. Tsuda, and T. Oguchi, Phys. Rev. Mater. **2**, 013803 (2018).
 | https://link.aps.org/doi/10.1103/PhysRevMaterials.2.013803
 |
 
@@ -33,7 +33,7 @@ Bayesian optimization
 LAQA
 -----
 
-| K.Terayama, T. Yamashita, T. Oguchi, and K. Tsuda, npj Comput. Mater. (2018).
+| K.Terayama, T. Yamashita, T. Oguchi, and K. Tsuda, npj Comput. Mater. **4**, 32 (2018).
 | https://www.nature.com/articles/s41524-018-0090-y
 |
 
